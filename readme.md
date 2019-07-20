@@ -1,4 +1,4 @@
-Raspberry Pi sample project by Lazarus with WiringPi wrapper
+# Raspberry Pi sample project by Lazarus with WiringPi wrapper
 
 Please download Lazarus WiringPi wrapper from
 https://github.com/laz2wiringpi/laz2wiringpi
